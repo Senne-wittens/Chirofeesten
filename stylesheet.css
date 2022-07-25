@@ -1,33 +1,4 @@
-li{
-    text-decoration: none;
-}
-.artikelnaam{
-    color: seagreen;
-    font-size: 3rem;
-}
-.artikeluitleg{
-    font-size: 2.5rem;
-}
-section{
-    align-content: center;
-}
-.menu{
-    padding-left: 2rem;
-    padding-right: 2rem;
-}
-a{
-    font-size: 2rem;
-    text-decoration: none;
-    color: seagreen;
-}
 
-h1{
-    font-size: 5rem;
-}
-.menu{
-    border-color: seagreen;
-    border-style: solid;
-    margin-left: 3rem;
-    margin-right: 3rem;
-    border-radius: 1rem;
+.one{
+    width: 100%;
 }
